@@ -117,7 +117,7 @@ function Hero() {
             preload="metadata"
             aria-label="Sweet Dreams patisserie atelier"
           />
-          <div className="absolute inset-0 bg-linear-to-t from-background/90 via-background/35 to-background/45" />
+          <div className="absolute inset-0 bg-linear-to-t from-background/95 via-background/60 to-background/70" />
 
           <div className="absolute inset-0 flex flex-col items-center justify-center px-6 text-center">
             <p className="animate-rise text-[0.65rem] font-medium uppercase tracking-[0.42em] text-gold sm:text-xs">
